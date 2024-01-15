@@ -40,6 +40,7 @@ I am recently working with blender python scripts for dynamic real time signal d
 [Wonderfully described the initial setup in this video!](https://www.youtube.com/watch?v=YUytEtaVrrc&list=PLB8-FQgROBmkRcM1kbUX65JLsl12o-W6r&index=28).
 The channel is really resourceful [CG Python](https://www.youtube.com/@CGPython/featured)
 
+[Understanding bmesh here](https://youtu.be/LasB_NMmvyA?si=Ygch0MZLA3B-jE0w)
 ## Future Work
 
 ### 3D CAD Integration

@@ -36,6 +36,7 @@ The project is structured as follows:
    ```bash
    python scripts/multipath_simulation.py
 
+Please check the work log in wiki to see more resources regarding the process. I am recently working with blender python scripts for dynamic real time signal data visualization facility. Because matplotlib visulization is static.There I described my each steps of developing the project in blender with scripts.
 
 ## Future Work
 

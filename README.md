@@ -41,6 +41,14 @@ I am recently working with blender python scripts for dynamic real time signal d
 The channel is really resourceful [CG Python](https://www.youtube.com/@CGPython/featured)
 
 [Understanding bmesh here](https://youtu.be/LasB_NMmvyA?si=Ygch0MZLA3B-jE0w)
+
+[Techniques to use to acces bmesh easily](https://youtu.be/LasB_NMmvyA?si=vBwXSerp0PWrA4JG)
+
+[Tinkering vertice data of each mesh from scratch](https://youtu.be/N3U2noAHgBo?si=ZAIUgIka_4jZIsOM)
+
+[Blender Documentation for scripting](https://docs.blender.org/api/current/bmesh.types.html)
+
+
 ## Future Work
 
 ### 3D CAD Integration
